@@ -129,6 +129,7 @@ h1{
 .msg-box{
     position: fixed;
     left: 90%;
+    top: 80%;
 }
 
 main{
